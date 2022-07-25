@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "t8rMdXgubl02AQ1oY37taU/oCmTIw4qZH1C9qc7lHAgRldpCN8LEa6gExl6MTNsh3uPam3U9pZg3t5uxUkop+g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\lucas\\All my code\\Basic_C# Programs\\MathOperation\\MathOperation\\MathOperation.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\lucas\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.24\\microsoft.netcore.app.host.win-x64.3.1.24.nupkg.sha512"
+  ],
+  "logs": []
+}
