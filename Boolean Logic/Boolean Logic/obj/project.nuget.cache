@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "SqxXjjJ1i2zyZ6LWDjYl8ftNfejTdBPCHrJ/tlibnbyEvM06X8UD0wZTQqjELH5lu8/ZIPtLxkonxDi8Het/qA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\lucas\\All my code\\Basic_C# Programs\\Basic-C-Sharp-Projects\\Boolean Logic\\Boolean Logic\\Boolean Logic.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\lucas\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.24\\microsoft.netcore.app.host.win-x64.3.1.24.nupkg.sha512"
+  ],
+  "logs": []
+}

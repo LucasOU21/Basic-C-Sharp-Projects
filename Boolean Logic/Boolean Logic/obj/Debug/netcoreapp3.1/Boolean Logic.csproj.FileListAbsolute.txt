@@ -1,0 +1,14 @@
+C:\Users\lucas\All my code\Basic_C# Programs\Basic-C-Sharp-Projects\Boolean Logic\Boolean Logic\bin\Debug\netcoreapp3.1\Boolean Logic.exe
+C:\Users\lucas\All my code\Basic_C# Programs\Basic-C-Sharp-Projects\Boolean Logic\Boolean Logic\bin\Debug\netcoreapp3.1\Boolean Logic.deps.json
+C:\Users\lucas\All my code\Basic_C# Programs\Basic-C-Sharp-Projects\Boolean Logic\Boolean Logic\bin\Debug\netcoreapp3.1\Boolean Logic.runtimeconfig.json
+C:\Users\lucas\All my code\Basic_C# Programs\Basic-C-Sharp-Projects\Boolean Logic\Boolean Logic\bin\Debug\netcoreapp3.1\Boolean Logic.runtimeconfig.dev.json
+C:\Users\lucas\All my code\Basic_C# Programs\Basic-C-Sharp-Projects\Boolean Logic\Boolean Logic\bin\Debug\netcoreapp3.1\Boolean Logic.dll
+C:\Users\lucas\All my code\Basic_C# Programs\Basic-C-Sharp-Projects\Boolean Logic\Boolean Logic\bin\Debug\netcoreapp3.1\Boolean Logic.pdb
+C:\Users\lucas\All my code\Basic_C# Programs\Basic-C-Sharp-Projects\Boolean Logic\Boolean Logic\obj\Debug\netcoreapp3.1\Boolean Logic.csproj.AssemblyReference.cache
+C:\Users\lucas\All my code\Basic_C# Programs\Basic-C-Sharp-Projects\Boolean Logic\Boolean Logic\obj\Debug\netcoreapp3.1\Boolean Logic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas\All my code\Basic_C# Programs\Basic-C-Sharp-Projects\Boolean Logic\Boolean Logic\obj\Debug\netcoreapp3.1\Boolean Logic.AssemblyInfoInputs.cache
+C:\Users\lucas\All my code\Basic_C# Programs\Basic-C-Sharp-Projects\Boolean Logic\Boolean Logic\obj\Debug\netcoreapp3.1\Boolean Logic.AssemblyInfo.cs
+C:\Users\lucas\All my code\Basic_C# Programs\Basic-C-Sharp-Projects\Boolean Logic\Boolean Logic\obj\Debug\netcoreapp3.1\Boolean Logic.csproj.CoreCompileInputs.cache
+C:\Users\lucas\All my code\Basic_C# Programs\Basic-C-Sharp-Projects\Boolean Logic\Boolean Logic\obj\Debug\netcoreapp3.1\Boolean Logic.dll
+C:\Users\lucas\All my code\Basic_C# Programs\Basic-C-Sharp-Projects\Boolean Logic\Boolean Logic\obj\Debug\netcoreapp3.1\Boolean Logic.pdb
+C:\Users\lucas\All my code\Basic_C# Programs\Basic-C-Sharp-Projects\Boolean Logic\Boolean Logic\obj\Debug\netcoreapp3.1\Boolean Logic.genruntimeconfig.cache
