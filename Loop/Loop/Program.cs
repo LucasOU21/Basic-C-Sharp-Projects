@@ -7,7 +7,7 @@ namespace Loop
         static void Main(string[] args)
         {
             Console.WriteLine("Guess the year from 2000 to 2022 with a twist.");
-            int number = Convert.ToInt32(Console.ReadLine());
+            int year = Convert.ToInt32(Console.ReadLine());
             bool isGuessed = number == 2002;
 
             do
@@ -31,7 +31,7 @@ namespace Loop
                         isGuessed = true;
                         break;
                     default:
-                        Console.WriteLine("You guessed the number " + number + ". Try again");
+                        Console.WriteLine("You guessed the year " + year + ". Try again");
                         number = Convert.ToInt32(Console.ReadLine());
                         break;
                 }
