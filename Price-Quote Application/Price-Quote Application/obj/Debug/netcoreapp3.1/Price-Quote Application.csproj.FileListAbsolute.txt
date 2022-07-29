@@ -1,0 +1,14 @@
+C:\Users\lucas\All my code\Basic_C# Programs\Basic-C-Sharp-Projects\Price-Quote Application\Price-Quote Application\bin\Debug\netcoreapp3.1\Price-Quote Application.exe
+C:\Users\lucas\All my code\Basic_C# Programs\Basic-C-Sharp-Projects\Price-Quote Application\Price-Quote Application\bin\Debug\netcoreapp3.1\Price-Quote Application.deps.json
+C:\Users\lucas\All my code\Basic_C# Programs\Basic-C-Sharp-Projects\Price-Quote Application\Price-Quote Application\bin\Debug\netcoreapp3.1\Price-Quote Application.runtimeconfig.json
+C:\Users\lucas\All my code\Basic_C# Programs\Basic-C-Sharp-Projects\Price-Quote Application\Price-Quote Application\bin\Debug\netcoreapp3.1\Price-Quote Application.runtimeconfig.dev.json
+C:\Users\lucas\All my code\Basic_C# Programs\Basic-C-Sharp-Projects\Price-Quote Application\Price-Quote Application\bin\Debug\netcoreapp3.1\Price-Quote Application.dll
+C:\Users\lucas\All my code\Basic_C# Programs\Basic-C-Sharp-Projects\Price-Quote Application\Price-Quote Application\bin\Debug\netcoreapp3.1\Price-Quote Application.pdb
+C:\Users\lucas\All my code\Basic_C# Programs\Basic-C-Sharp-Projects\Price-Quote Application\Price-Quote Application\obj\Debug\netcoreapp3.1\Price-Quote Application.csproj.AssemblyReference.cache
+C:\Users\lucas\All my code\Basic_C# Programs\Basic-C-Sharp-Projects\Price-Quote Application\Price-Quote Application\obj\Debug\netcoreapp3.1\Price-Quote Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas\All my code\Basic_C# Programs\Basic-C-Sharp-Projects\Price-Quote Application\Price-Quote Application\obj\Debug\netcoreapp3.1\Price-Quote Application.AssemblyInfoInputs.cache
+C:\Users\lucas\All my code\Basic_C# Programs\Basic-C-Sharp-Projects\Price-Quote Application\Price-Quote Application\obj\Debug\netcoreapp3.1\Price-Quote Application.AssemblyInfo.cs
+C:\Users\lucas\All my code\Basic_C# Programs\Basic-C-Sharp-Projects\Price-Quote Application\Price-Quote Application\obj\Debug\netcoreapp3.1\Price-Quote Application.csproj.CoreCompileInputs.cache
+C:\Users\lucas\All my code\Basic_C# Programs\Basic-C-Sharp-Projects\Price-Quote Application\Price-Quote Application\obj\Debug\netcoreapp3.1\Price-Quote Application.dll
+C:\Users\lucas\All my code\Basic_C# Programs\Basic-C-Sharp-Projects\Price-Quote Application\Price-Quote Application\obj\Debug\netcoreapp3.1\Price-Quote Application.pdb
+C:\Users\lucas\All my code\Basic_C# Programs\Basic-C-Sharp-Projects\Price-Quote Application\Price-Quote Application\obj\Debug\netcoreapp3.1\Price-Quote Application.genruntimeconfig.cache
