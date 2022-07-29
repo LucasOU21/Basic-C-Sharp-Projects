@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "NnicO97skxkJGd/ycu/E6YT6IoL3PhNudDTVWwgY4XdoF2UKJRitjVrOfCykpBnmNuAkmTLoaivbUQlidz8Ecw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\lucas\\All my code\\Basic_C# Programs\\Basic-C-Sharp-Projects\\Loop\\Loop\\Loop.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\lucas\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.24\\microsoft.netcore.app.host.win-x64.3.1.24.nupkg.sha512"
+  ],
+  "logs": []
+}
